@@ -229,5 +229,10 @@
     "type": "json_flag",
     "context": [ "vehicle_part" ],
     "requires_flag": "ROOF"
+  },
+  {
+    "id": "SHOCK_ABSORBER",
+    "type": "json_flag",
+    "context": [ "vehicle_part" ]
   }
 ]
